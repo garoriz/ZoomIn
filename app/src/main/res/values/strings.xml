@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZoomIn</string>
+    <string name="start">Старт</string>
+    <string name="no_permissions">Нет разрешения на использование камеры!</string>
+</resources>
